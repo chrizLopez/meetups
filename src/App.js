@@ -1,6 +1,5 @@
 import { Route, Routes } from "react-router-dom";
 import AllMeetupsPage from "./pages/AllMeetups";
-// import MainNavigation from "./components/layout/MainNavigation";
 import FavoritesPage from "./pages/Favorites";
 import NewMeetupPage from "./pages/NewMeetup";
 import Layout from "./components/layout/Layout";
